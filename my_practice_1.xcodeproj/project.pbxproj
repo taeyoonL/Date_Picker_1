@@ -16,6 +16,8 @@
 		828AAC712A550D4200E823BF /* my_practice_1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 828AAC702A550D4200E823BF /* my_practice_1Tests.swift */; };
 		828AAC7B2A550D4200E823BF /* my_practice_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 828AAC7A2A550D4200E823BF /* my_practice_1UITests.swift */; };
 		828AAC7D2A550D4200E823BF /* my_practice_1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 828AAC7C2A550D4200E823BF /* my_practice_1UITestsLaunchTests.swift */; };
+		828AAC8A2A550DEF00E823BF /* lamp_on.png in Resources */ = {isa = PBXBuildFile; fileRef = 828AAC892A550DEF00E823BF /* lamp_on.png */; };
+		828AAC8C2A550DF900E823BF /* lamp_off.png in Resources */ = {isa = PBXBuildFile; fileRef = 828AAC8B2A550DF900E823BF /* lamp_off.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		828AAC762A550D4200E823BF /* my_practice_1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = my_practice_1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		828AAC7A2A550D4200E823BF /* my_practice_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = my_practice_1UITests.swift; sourceTree = "<group>"; };
 		828AAC7C2A550D4200E823BF /* my_practice_1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = my_practice_1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		828AAC892A550DEF00E823BF /* lamp_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lamp_on.png; sourceTree = "<group>"; };
+		828AAC8B2A550DF900E823BF /* lamp_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lamp_off.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				828AAC622A550D4100E823BF /* Assets.xcassets */,
 				828AAC642A550D4100E823BF /* LaunchScreen.storyboard */,
 				828AAC672A550D4100E823BF /* Info.plist */,
+				828AAC892A550DEF00E823BF /* lamp_on.png */,
+				828AAC8B2A550DF900E823BF /* lamp_off.png */,
 			);
 			path = my_practice_1;
 			sourceTree = "<group>";
@@ -231,7 +237,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				828AAC8A2A550DEF00E823BF /* lamp_on.png in Resources */,
 				828AAC662A550D4100E823BF /* LaunchScreen.storyboard in Resources */,
+				828AAC8C2A550DF900E823BF /* lamp_off.png in Resources */,
 				828AAC632A550D4100E823BF /* Assets.xcassets in Resources */,
 				828AAC612A550D4100E823BF /* Main.storyboard in Resources */,
 			);
